@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=PatrickLapik&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/><br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=PatrickLapik&theme=tokyonight&hide_border=false"/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickLapik&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickLapik&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/><br/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=PatrickLapik&theme=tokyo-night"/>
   </div>
 </details>
